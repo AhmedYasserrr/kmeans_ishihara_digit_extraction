@@ -1,6 +1,5 @@
 import os
 import cv2
-import numpy as np
 from kmeans import kmeans
 
 if __name__ == "__main__":

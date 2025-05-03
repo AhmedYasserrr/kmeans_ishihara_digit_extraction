@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-from sklearn.preprocessing import StandardScaler
 
 class kmeans:
     def __init__(self, k=2, max_iters=10, color_space="YCbCr", channels=[1]):
